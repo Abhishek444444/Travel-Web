@@ -29,13 +29,16 @@ A full-featured travel website built with the MERN stack (MongoDB, Express.js, R
 ## 🧑‍💻 Installation Instructions
 
 📦 Backend Setup (in /Backend)
+
    cd Backend
    npm install
-# Create a .env file and add your MongoDB connection string and other secrets
-npm start
+ # Create a .env file and add your MongoDB connection string and other secrets
+  npm start
 
 🌐 Frontend Setup (in /frontend)
+
 cd ../frontend
+
 npm install
 npm start
 
