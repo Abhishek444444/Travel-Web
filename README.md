@@ -3,6 +3,12 @@
 A full-featured travel website built with the MERN stack (MongoDB, Express.js, React.js, Node.js). Users can browse destinations, view tour details, and make bookings — all from a responsive and modern UI.
 
 ---
+## 🔗 Live Demo
+
+**Frontend hosted on GitHub Pages**:  
+👉 [https://Abhishek444444.github.io/Travel-Web](https://Abhishek444444.github.io/Travel-Web)
+
+---
 
 ## 🚀 Features
 
